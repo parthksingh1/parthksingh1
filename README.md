@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [parth-personal-website.netlify.app/](parth-personal-website.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript , React**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap , Javascript , ReactJS , MaterialUI ,Tailwind , Git & Github**
 
 - 📫 How to reach me **parthksingh1@gmail.com**
 
