@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="450"
 src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
-<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthksingh1&label=Profile%20views&color=0e75b6&style=flat" alt="parthksingh1" /> </p>
 
 - 🔭 I’m currently working on [Yupify 💻](https://yupify.netlify.app/)
@@ -18,6 +16,8 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 - 💬 Ask me about **HTML5, CSS3, Bootstrap , Javascript , ReactJS , MaterialUI ,Tailwind , Git & Github**
 
 - 📫 How to reach me **parthksingh1@gmail.com**
+
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
