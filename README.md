@@ -3,12 +3,13 @@
 <img align="right" alt="Coding" width="450"
 src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthksingh1&label=Profile%20views&color=0e75b6&style=flat" alt="parthksingh1" /> </p>
 
 - 🔭 I’m currently working on [Yupify 💻](https://yupify.netlify.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [parth-personal-website.netlify.app/](parth-personal-website.netlify.app/)
 
@@ -26,10 +27,16 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 <a href="https://discord.gg/parthksingh1#9038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="parthksingh1#9038" height="30" width="40" /></a>
 </p>
 
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
+
+
 ## 👻 Languages and Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,nodejs,express,mongodb,redis,docker,postman,nextjs,react,tailwind,aws,githubactions,bash,tensorflow,git&perline=19" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,nodejs,express,mongodb,redis,docker,postman,nextjs,react,tailwind,githubactions,bash,git&perline=19" />
 </div>
+
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthksingh1&show_icons=true&locale=en&layout=compact" alt="parthksingh1" /></p>
 
@@ -38,3 +45,6 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthksingh1&" alt="parthksingh1" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthksingh1" alt="parthksingh1" /></a> </p>
+
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
+
