@@ -32,7 +32,7 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 ## 👻 Languages and Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,nodejs,express,mongodb,redis,docker,postman,nextjs,react,tailwind,githubactions,bash,git&perline=19" />
+  <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cpp,codepen,css,docker,express,figma,firebase,git,github,githubactions,html,js,materialui,mongodb,mysql,netlify,nextjs,nodejs,ps,php,postgres,postman,react,redux,tailwind,vercel,vite,vscode&perline=19" />
 </div>
 
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
