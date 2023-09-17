@@ -7,7 +7,7 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthksingh1&label=Profile%20views&color=0e75b6&style=flat" alt="parthksingh1" /> </p>
 
-- 🔭 I’m currently working on [Yupp AI 💻]
+- 🔭 I’m currently working on Yupp AI 💻
 
 - 🌱 I’m currently learning **Backend**
 
