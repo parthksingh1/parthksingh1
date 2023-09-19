@@ -30,7 +30,7 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 </p>
 
 
-## 👻 Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 <div>
   <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cpp,codepen,css,docker,express,figma,firebase,git,github,githubactions,html,js,materialui,mongodb,mysql,netlify,nextjs,nodejs,ps,php,postgres,postman,react,redux,tailwind,vercel,vite,vscode&perline=19" />
 </div>
