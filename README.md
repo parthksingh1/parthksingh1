@@ -24,8 +24,8 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 <a href="https://linkedin.com/in/parth kumar singh" target="blank"><img src="https://skillicons.dev/icons?i=linkedin "/> </a>
 <a href="https://stackoverflow.com/users/parth kumar singh" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow "/> </a>
 <a href="https://instagram.com/parthksingh1" target="blank"><img src="https://skillicons.dev/icons?i=instagram "/> </a>
-<a href="https://www.codechef.com/users/parthksingh1" target="blank"><img src="https://skillicons.dev/icons?i=codechef "/> </a>
-<a href="https://codeforces.com/profile/parthksingh1" target="blank"><img src="https://skillicons.dev/icons?i=codeforces "/> </a>
+<a href="https://www.codechef.com/users/parthksingh1" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="codechef" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/parthksingh1" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="codeforces" height="40" width="40" /> </a>
 <a href="https://discord.gg/parthksingh1#9038" target="blank"<img src="https://skillicons.dev/icons?i=discord "/> </a>
 </p>
 
