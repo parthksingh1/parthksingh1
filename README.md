@@ -9,7 +9,7 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 - 🔭 I’m currently working on Yupp AI 💻
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [parth-personal-website.netlify.app/](parth-personal-website.netlify.app/)
 
