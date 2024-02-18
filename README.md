@@ -11,9 +11,9 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [parth-personal-website.netlify.app/](parth-personal-website.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://parthksingh-portfolio.vercel.app/](https://parthksingh-portfolio.vercel.app/)
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap , Javascript , ReactJS , MaterialUI ,Tailwind , Git & Github**
+- 💬 Ask me about **Javascript , ReactJS , NodeJS, ExpressJS, NextJS, Django, C++, MaterialUI ,Tailwind , Git & Github**
 
 - 📫 How to reach me **parthksingh1@gmail.com**
 
