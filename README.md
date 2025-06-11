@@ -21,15 +21,11 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/parthkumarsingh" target="_blank" title="Connect on LinkedIn">
+  <a href="https://www.linkedin.com/in/parth-kumar-singh-527378229/" target="_blank" title="Connect on LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;
-  <a href="https://stackoverflow.com/users/25263452/parth-kumar-singh" target="_blank" title="See my StackOverflow Profile">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/parthksingh1" target="_blank" title="Follow me on Instagram">
+  <a href="https://www.instagram.com/parthsingh1_?igsh=MWR2c21lZm9sMWQ3bw==" target="_blank" title="Follow me on Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   &nbsp;
@@ -37,7 +33,7 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/9038" target="_blank" title="Join me on Discord">
+  <a href="https://discord.com/users/1103763072608374816" target="_blank" title="Join me on Discord">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
   &nbsp;
@@ -45,7 +41,7 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/parthksingh1" target="_blank" title="Follow on Twitter">
+  <a href="https://x.com/LazyCoder1_" target="_blank" title="Follow on Twitter">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
 </p>
