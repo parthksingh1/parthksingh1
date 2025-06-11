@@ -1,4 +1,4 @@
-<img src="[https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shopbecker.com%2FColorful-Scribble-Straight-Border-TCR3418%2F&psig=AOvVaw3i11IS2HAtjEBXUuyeXPxC&ust=1720021812619000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjaqePaiIcDFQAAAAAdAAAAABAE)">
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Parth Kumar Singh 💻</h1>
 <h3 align="center">A passionate Full Stack developer and A enthusiastic Competitive Programmer💻</h3>
@@ -17,14 +17,13 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 - 📫 How to reach me **parthksingh1@gmail.com**
 
-<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parth kumar singh" target="blank"><img src="https://skillicons.dev/icons?i=linkedin "/> </a>
 <a href="https://stackoverflow.com/users/parth kumar singh" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow "/> </a>
 <a href="https://instagram.com/parthksingh1" target="blank"><img src="https://skillicons.dev/icons?i=instagram "/> </a>
-<a href="https://www.codechef.com/users/parthksingh1" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="codechef" height="40" width="40" /></a>
 <a href="https://discord.gg/parthksingh1#9038" target="blank"<img src="https://skillicons.dev/icons?i=discord "/> </a>
 </p>
 
@@ -34,7 +33,7 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
   <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cpp,codepen,css,docker,express,figma,firebase,git,github,githubactions,html,js,materialui,mongodb,mysql,netlify,nextjs,nodejs,ps,php,postgres,postman,react,redux,tailwind,vercel,vite,vscode&perline=19" />
 </div>
 
-<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthksingh1&show_icons=true&locale=en&layout=compact" alt="parthksingh1" /></p>
@@ -45,5 +44,5 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthksingh1" alt="parthksingh1" /></a> </p>
 
-<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
 
