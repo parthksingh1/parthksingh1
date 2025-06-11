@@ -19,13 +19,39 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parth kumar singh" target="blank"><img src="https://skillicons.dev/icons?i=linkedin "/> </a>
-<a href="https://stackoverflow.com/users/parth kumar singh" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow "/> </a>
-<a href="https://instagram.com/parthksingh1" target="blank"><img src="https://skillicons.dev/icons?i=instagram "/> </a>
-<a href="https://discord.gg/parthksingh1#9038" target="blank"<img src="https://skillicons.dev/icons?i=discord "/> </a>
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/parthkumarsingh" target="_blank" title="Connect on LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/25263452/parth-kumar-singh" target="_blank" title="See my StackOverflow Profile">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/parthksingh1" target="_blank" title="Follow me on Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:parthksingh1@gmail.com" target="_blank" title="Send me an email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/9038" target="_blank" title="Join me on Discord">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/parthksingh1" target="_blank" title="Follow on GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/parthksingh1" target="_blank" title="Follow on Twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
 </p>
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" />
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
@@ -44,4 +70,3 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthksingh1&theme=tokyonight" alt="parthksingh1" /></a> </p>
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" />
-
