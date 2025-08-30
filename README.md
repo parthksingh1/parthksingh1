@@ -63,6 +63,11 @@ src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthksingh1&theme=tokyonight" alt="parthksingh1" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthksingh1&theme=tokyonight" alt="parthksingh1" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=parthksingh1&theme=tokyonight" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" />
