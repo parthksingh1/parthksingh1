@@ -13,7 +13,7 @@
   <a href="https://github.com/parthksingh1"><img src="https://komarev.com/ghpvc/?username=parthksingh1&label=VIEWS&color=FF6B35&style=for-the-badge" /></a>&nbsp;
   <a href="https://github.com/parthksingh1?tab=followers"><img src="https://img.shields.io/github/followers/parthksingh1?label=FOLLOWERS&style=for-the-badge&color=FF3CAC&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/parthksingh1"><img src="https://img.shields.io/github/stars/parthksingh1?affiliations=OWNER&style=for-the-badge&color=F7931E&logo=github&logoColor=white&label=STARS" /></a>&nbsp;
-  <a href="https://parthksingh-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B35?style=for-the-badge"/></a>
+  <a href="https://parthsingh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B35?style=for-the-badge"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
