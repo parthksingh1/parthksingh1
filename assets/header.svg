@@ -1,0 +1,44 @@
+<svg width="840" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="roundCorners">
+      <rect width="840" height="220" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+  
+  <g clip-path="url(#roundCorners)">
+    <!-- Terminal background -->
+    <rect width="840" height="220" fill="#0d1117"/>
+    
+    <!-- Terminal title bar -->
+    <rect width="840" height="38" fill="#161b22"/>
+    <line x1="0" y1="38" x2="840" y2="38" stroke="#30363d" stroke-width="1"/>
+    
+    <!-- Traffic light dots -->
+    <circle cx="24" cy="19" r="7" fill="#ff5f57"/>
+    <circle cx="46" cy="19" r="7" fill="#febc2e"/>
+    <circle cx="68" cy="19" r="7" fill="#28c840"/>
+    
+    <!-- Terminal title text -->
+    <text x="420" y="24" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" fill="#8b949e" text-anchor="middle">parth@github: ~/about</text>
+    
+    <!-- whoami command -->
+    <text x="36" y="78" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14" fill="#22c55e">❯</text>
+    <text x="56" y="78" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14" fill="#c9d1d9">whoami</text>
+    
+    <!-- Name output -->
+    <text x="36" y="118" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="30" fill="#ffffff" font-weight="bold">Parth Kumar Singh</text>
+    
+    <!-- Role line -->
+    <text x="36" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#22c55e">Full-Stack Engineer</text>
+    <text x="220" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#484f58"> · </text>
+    <text x="248" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#22c55e">AI Systems</text>
+    <text x="348" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#484f58"> · </text>
+    <text x="376" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#22c55e">Competitive Programmer</text>
+    
+    <!-- Blinking cursor line -->
+    <text x="36" y="192" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14" fill="#22c55e">❯</text>
+    <rect x="56" y="180" width="9" height="17" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
