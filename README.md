@@ -17,21 +17,32 @@
     <td width="58%">
 
 ```
-parth@github
+parthksingh1@github
 ──────────────────────────────────
- OS        B.Tech CS @ IIITDM Jabalpur '26
- Host      Vadodara, India 🇮🇳
- Kernel    TypeScript · Python · C++ · Go
+ OS          B.Tech CS @ IIITDM Jabalpur '26
+ Host        Vadodara, India 🇮🇳
+ Kernel      TypeScript · Python · C++ · Go
 
- Frontend  Next.js 15 · React · Tailwind · Framer Motion
- Backend   Node.js · FastAPI · Kafka · Redis · WebSockets
- Storage   PostgreSQL · pgvector · MongoDB · ClickHouse
- AI        LangChain · OpenAI · Gemini · RAG · MCP
- Cloud     Docker · Kubernetes · GCP · Terraform
+ Frontend    Next.js 15 · React · Tailwind · Framer Motion
+ Backend     Node.js · FastAPI · Kafka · Redis · WebSockets
+ Storage     PostgreSQL · pgvector · MongoDB · ClickHouse
+ AI/ML       LangChain · OpenAI · Gemini · RAG · MCP · LangGraph
+ Cloud       Docker · Kubernetes · GCP · Terraform · CI/CD
 
- Uptime    Meta HackerCup R3 #186 · CodeChef #76
- Packages  1000+ LeetCode Problems Solved
- Status    Open to remote AI / full-stack roles
+ Projects    CollabSpace · TaskForge · MedEaseAI · NexusAI
+ Freelance   DevCraft Studio — AI-powered builds for startups
+ Open Source Keploy (Go · Node.js) · mcp-observer
+ Experience  Akatsuki AI — Slack bot · Gemini · python-pptx
+
+ Uptime      Meta HackerCup R3 #186 · CodeChef #76
+ Packages    1000+ LeetCode Problems Solved
+ Arch        Distributed systems · real-time · multi-agent AI
+ Shell       Building toward indie SaaS revenue
+
+ Status      Open to remote AI / full-stack · YC-backed · Series A–B
+ Contact     Topmate.io/parth · DevCraft Studio
+──────────────────────────────────
+>_ building things that ship, scale, and sometimes win hackathons
 ```
 
    </td>
