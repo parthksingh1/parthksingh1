@@ -1,31 +1,21 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=PARTH%20KUMAR%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Competitive%20Programmer&descSize=15&descColor=22c55e&descAlignY=58&animation=fadeIn"/>
-</p>
+<div align="center">
+  <img src="./assets/header.gif" width="100%" alt="parth@github: ~/about"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=700&height=36&lines=Meta+HackerCup+Round+3+%E2%80%94+Global+Rank+186+%F0%9F%8F%86;CodeChef+Peak+Rank+76+%C2%B7+1000%2B+LeetCode+Problems;Building+AI+Systems+That+Actually+Scale;IIITDM+Jabalpur+%E2%80%9926+%7C+Open+to+Remote+Roles" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/parthksingh1">
-    <img src="https://komarev.com/ghpvc/?username=parthksingh1&label=Profile+Views&color=22c55e&style=flat-square" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/parthksingh1?tab=followers">
-    <img src="https://img.shields.io/github/followers/parthksingh1?label=Followers&style=flat-square&color=22c55e&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/parth-kumar-singh-527378229/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:parthksingh1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/parthksingh1">
+    <img src="https://img.shields.io/github/followers/parthksingh1?label=Follow&style=flat-square&color=181717&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -33,33 +23,34 @@
 
 <h2>⚡ About Me</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<table>
+  <tr>
+    <td width="42%" align="center">
+      <img src="./assets/hero.png" width="100%" alt="parth@github:~$"/>
+    </td>
+    <td width="58%">
 
-```typescript
-const parth: Developer = {
-  education : "B.Tech CS  @  IIITDM Jabalpur  '26",
-  location  : "Vadodara, India 🇮🇳",
-  languages : ["TypeScript", "Python", "C++", "Go"],
+```
+parth@github
+──────────────────────────────────
+ OS        B.Tech CS @ IIITDM Jabalpur '26
+ Host      Vadodara, India 🇮🇳
+ Kernel    TypeScript · Python · C++ · Go
 
-  stack: {
-    frontend  : ["Next.js 15", "React", "Tailwind", "Framer Motion"],
-    backend   : ["Node.js", "FastAPI", "Kafka", "Redis", "WebSockets"],
-    databases : ["PostgreSQL", "pgvector", "MongoDB", "ClickHouse"],
-    ai        : ["LangChain", "OpenAI", "Gemini", "RAG", "MCP"],
-    devops    : ["Docker", "Kubernetes", "GCP", "Terraform"],
-  },
+ Frontend  Next.js 15 · React · Tailwind · Framer Motion
+ Backend   Node.js · FastAPI · Kafka · Redis · WebSockets
+ Storage   PostgreSQL · pgvector · MongoDB · ClickHouse
+ AI        LangChain · OpenAI · Gemini · RAG · MCP
+ Cloud     Docker · Kubernetes · GCP · Terraform
 
-  competitive_programming: {
-    meta_hacker_cup : "Round 3  ·  Global Rank #186 🏆",
-    codechef        : "Peak Rank #76",
-    leetcode        : "1000+ problems solved",
-  },
-
-  currently : "Open to remote AI / full-stack engineering roles",
-};
+ Uptime    Meta HackerCup R3 #186 · CodeChef #76
+ Packages  1000+ LeetCode Problems Solved
+ Status    Open to remote AI / full-stack roles
 ```
 
-<br clear="right"/>
+   </td>
+  </tr>
+</table>
 
 <br/>
 
