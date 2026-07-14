@@ -3,20 +3,6 @@
   <img src="./assets/header.gif" width="100%" alt="parth@github: ~/about"/>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parth-kumar-singh-527378229/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:parthksingh1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/parthksingh1">
-    <img src="https://img.shields.io/github/followers/parthksingh1?label=Follow&style=flat-square&color=181717&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ABOUT -->
@@ -53,6 +39,20 @@ parth@github
 </table>
 
 <br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-kumar-singh-527378229/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:parthksingh1@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/parthksingh1">
+    <img src="https://img.shields.io/github/followers/parthksingh1?label=Follow&style=flat-square&color=181717&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
