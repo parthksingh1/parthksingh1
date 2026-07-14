@@ -1,44 +1,131 @@
-<svg width="840" height="220" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 840 340" xmlns="http://www.w3.org/2000/svg" style="">
   <defs>
-    <clipPath id="roundCorners">
-      <rect width="840" height="220" rx="12" ry="12"/>
-    </clipPath>
+    <clipPath id="rc"><rect width="840" height="340" rx="10"/></clipPath>
   </defs>
-  
-  <g clip-path="url(#roundCorners)">
-    <!-- Terminal background -->
-    <rect width="840" height="220" fill="#0d1117"/>
-    
-    <!-- Terminal title bar -->
-    <rect width="840" height="38" fill="#161b22"/>
-    <line x1="0" y1="38" x2="840" y2="38" stroke="#30363d" stroke-width="1"/>
-    
-    <!-- Traffic light dots -->
-    <circle cx="24" cy="19" r="7" fill="#ff5f57"/>
-    <circle cx="46" cy="19" r="7" fill="#febc2e"/>
-    <circle cx="68" cy="19" r="7" fill="#28c840"/>
-    
-    <!-- Terminal title text -->
-    <text x="420" y="24" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" fill="#8b949e" text-anchor="middle">parth@github: ~/about</text>
-    
-    <!-- whoami command -->
-    <text x="36" y="78" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14" fill="#22c55e">❯</text>
-    <text x="56" y="78" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14" fill="#c9d1d9">whoami</text>
-    
-    <!-- Name output -->
-    <text x="36" y="118" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="30" fill="#ffffff" font-weight="bold">Parth Kumar Singh</text>
-    
-    <!-- Role line -->
-    <text x="36" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#22c55e">Full-Stack Engineer</text>
-    <text x="220" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#484f58"> · </text>
-    <text x="248" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#22c55e">AI Systems</text>
-    <text x="348" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#484f58"> · </text>
-    <text x="376" y="152" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="15" fill="#22c55e">Competitive Programmer</text>
-    
-    <!-- Blinking cursor line -->
-    <text x="36" y="192" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="14" fill="#22c55e">❯</text>
-    <rect x="56" y="180" width="9" height="17" fill="#22c55e">
-      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+
+  <g clip-path="url(#rc)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <rect width="840" height="340" fill="#0d1117" style="fill:rgb(13, 17, 23);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <g opacity="0.03" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.03;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      <line x1="0" y1="50" x2="840" y2="50" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="52" x2="840" y2="52" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="80" x2="840" y2="80" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="82" x2="840" y2="82" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="110" x2="840" y2="110" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="112" x2="840" y2="112" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="140" x2="840" y2="140" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="142" x2="840" y2="142" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="170" x2="840" y2="170" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="172" x2="840" y2="172" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="200" x2="840" y2="200" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="202" x2="840" y2="202" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="230" x2="840" y2="230" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="232" x2="840" y2="232" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="260" x2="840" y2="260" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="262" x2="840" y2="262" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="290" x2="840" y2="290" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="292" x2="840" y2="292" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="320" x2="840" y2="320" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="0" y1="322" x2="840" y2="322" stroke="#ffffff" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    </g>
+
+    <rect width="840" height="36" fill="#161b22" style="fill:rgb(22, 27, 34);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <line x1="0" y1="36" x2="840" y2="36" stroke="#30363d" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(48, 54, 61);color:rgb(11, 11, 11);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <circle cx="22" cy="18" r="6" fill="#ff5f56" style="fill:rgb(255, 95, 86);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="42" cy="18" r="6" fill="#ffbd2e" style="fill:rgb(255, 189, 46);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="62" cy="18" r="6" fill="#27c93f" style="fill:rgb(39, 201, 63);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <text x="420" y="23" font-family="ui-monospace,SFMono-Regular,'SF Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#7d8590" text-anchor="middle" style="fill:rgb(125, 133, 144);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, &quot;Cascadia Code&quot;, Consolas, monospace;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">parth@github — zsh — 80×24</text>
+
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <text x="32" y="66" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="14" fill="#22c55e" style="fill:rgb(34, 197, 94);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:14px;font-weight:400;text-anchor:start;dominant-baseline:auto">❯</text>
+      <text x="52" y="66" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="14" fill="#e6edf3" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:14px;font-weight:400;text-anchor:start;dominant-baseline:auto">./parth.sh</text>
+      <text x="140" y="66" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="14" fill="#7d8590" style="fill:rgb(125, 133, 144);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:14px;font-weight:400;text-anchor:start;dominant-baseline:auto"> --init-profile</text>
+    </g>
+
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <rect x="32" y="84" width="6" height="6" rx="1" fill="#27c93f" style="fill:rgb(39, 201, 63);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <text x="48" y="92" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#e6edf3" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">competitive_programming</text>
+    </g>
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <text x="260" y="92" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#30363d" style="fill:rgb(48, 54, 61);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">·························</text>
+      <text x="530" y="92" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#7d8590" style="fill:rgb(125, 133, 144);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">hackercup_r3</text>
+      <text x="640" y="92" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#3fb950" font-weight="bold" style="fill:rgb(63, 185, 80);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:700;text-anchor:start;dominant-baseline:auto">#186 global</text>
+    </g>
+
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <rect x="32" y="110" width="6" height="6" rx="1" fill="#27c93f" style="fill:rgb(39, 201, 63);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <text x="48" y="118" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#e6edf3" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">ai_ml_pipeline</text>
+    </g>
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <text x="260" y="118" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#30363d" style="fill:rgb(48, 54, 61);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">·························</text>
+      <text x="530" y="118" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#7d8590" style="fill:rgb(125, 133, 144);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">langchain · rag · agents · mcp</text>
+    </g>
+
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <rect x="32" y="136" width="6" height="6" rx="1" fill="#27c93f" style="fill:rgb(39, 201, 63);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <text x="48" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#e6edf3" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">distributed_systems</text>
+    </g>
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <text x="260" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#30363d" style="fill:rgb(48, 54, 61);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">·························</text>
+      <text x="530" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#7d8590" style="fill:rgb(125, 133, 144);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">kafka · redis · k8s · docker</text>
+    </g>
+
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <rect x="32" y="162" width="6" height="6" rx="1" fill="#27c93f" style="fill:rgb(39, 201, 63);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <text x="48" y="170" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#e6edf3" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">full_stack_frameworks</text>
+    </g>
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <text x="260" y="170" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#30363d" style="fill:rgb(48, 54, 61);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">·························</text>
+      <text x="530" y="170" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#7d8590" style="fill:rgb(125, 133, 144);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">next.js · react · fastapi</text>
+    </g>
+
+    <rect x="32" y="198" width="776" height="5" rx="2.5" fill="#21262d" opacity="0" style="fill:rgb(33, 38, 45);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
     </rect>
+    <rect x="32" y="196" width="0" height="9" rx="4.5" fill="#22c55e" opacity="0.15" style="fill:rgb(34, 197, 94);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+    </rect>
+    <rect x="32" y="198" width="0" height="5" rx="2.5" fill="#22c55e" style="fill:rgb(34, 197, 94);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+    </rect>
+    <text x="808" y="204" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="11" fill="#3fb950" text-anchor="end" opacity="0" style="fill:rgb(63, 185, 80);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">
+      100%
+      
+    </text>
+
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <text x="420" y="254" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="34" fill="#ffffff" font-weight="bold" text-anchor="middle" letter-spacing="3" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:34px;font-weight:700;text-anchor:middle;dominant-baseline:auto">PARTH KUMAR SINGH</text>
+    </g>
+
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <text x="420" y="282" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="13" fill="#22c55e" text-anchor="middle" letter-spacing="2" style="fill:rgb(34, 197, 94);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:13px;font-weight:400;text-anchor:middle;dominant-baseline:auto">FULL-STACK ENGINEER · AI SYSTEMS · COMPETITIVE PROGRAMMER</text>
+    </g>
+
+    <line x1="420" y1="296" x2="420" y2="296" stroke="#22c55e" stroke-width="1" opacity="0" style="fill:rgb(0, 0, 0);stroke:rgb(34, 197, 94);color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      
+      
+    </line>
+
+    <g opacity="0" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      
+      <text x="32" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Consolas,monospace" font-size="14" fill="#22c55e" style="fill:rgb(34, 197, 94);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Consolas, monospace;font-size:14px;font-weight:400;text-anchor:start;dominant-baseline:auto">❯</text>
+      <rect x="52" y="313" width="8" height="16" rx="1" fill="#22c55e" style="fill:rgb(34, 197, 94);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+        
+      </rect>
+    </g>
   </g>
 </svg>
