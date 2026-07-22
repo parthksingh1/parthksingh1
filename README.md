@@ -261,34 +261,43 @@ High-throughput task queue with Redis priority scheduling, atomic Lua scripts, P
 
 
 <!-- CONNECT -->
-
-<h2>🤝 Let's Connect</h2>
+<!-- CONNECT -->
+<h2 align="center">⚡ Let's Build Something Together</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-kumar-singh-527378229/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:parthksingh1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/parthksingh1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <br/>
 
+<!-- QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
-<!-- FOOTER -->
+<br/>
+
+<!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="Footer Wave"/>
 </p>
 
 <p align="center">
-  <sub>If my work resonates with you, a ⭐ goes a long way · <b>Parth Kumar Singh</b></sub>
+  <sub>
+    ⭐ <em>If something here sparked an idea, a star goes a long way.</em>
+  </sub>
+  <br/>
+  <sub>
+    <code>&lt;/&gt;</code> with ☕ by <b>Parth Kumar Singh</b>
+  </sub>
 </p>
