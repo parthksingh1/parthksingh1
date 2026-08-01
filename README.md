@@ -163,7 +163,7 @@ Team workspace with CRDT-based conflict-free editing, AI context-aware assistanc
 
 <td width="50%" valign="top">
 
-### ♻️ ZeroWasteLink 2.0
+### ♻️ ZeroWasteLink
 **Smart Food Redistribution Platform**
 
 Connects food donors with NGOs in real time — reducing waste and fighting hunger through tech. Live Leaflet.js map, Socket.io event pipeline, and a smart matching engine.
