@@ -208,17 +208,13 @@ High-throughput task queue with Redis priority scheduling, atomic Lua scripts, P
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=parthksingh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=parthksingh1&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthksingh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="175"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthksingh1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthksingh1&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthksingh1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="175"/>
-  </picture>
+
+<img src="https://github-stats-extended.vercel.app/api?username=parthksingh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="175" />
+
+  
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=parthksingh1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="175" />
+
 </div>
 
 <br/>
