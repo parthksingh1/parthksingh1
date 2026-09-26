@@ -230,7 +230,7 @@ High-throughput task queue with Redis priority scheduling, atomic Lua scripts, P
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthksingh1&theme=tokyo-night&hide_border=true&area=true&color=22c55e&line=22c55e&point=ffffff&bg_color=0d1117" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=parthksingh1&theme=tokyo-night&hide_border=true&area=true&color=22c55e&line=22c55e&point=ffffff&bg_color=0d1117" alt="Contribution Graph" width="95%"/>
 </div>
 
 <br/>
