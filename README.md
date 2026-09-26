@@ -52,17 +52,18 @@ parthksingh1@github
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parth-kumar-singh-527378229/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:parthksingh1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/parthksingh1">
-    <img src="https://img.shields.io/github/followers/parthksingh1?label=Follow&style=flat-square&color=181717&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://parthsingh-portfolio.vercel.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" height="48" alt="Portfolio"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/parth-kumar-singh-527378229/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:parthksingh1@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="48" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/parthksingh1"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="48" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/parthksingh1?label=Followers&style=for-the-badge&color=0d1117&labelColor=7c3aed&logo=github&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=parthksingh1&label=Profile%20Views&color=0d1117&style=for-the-badge"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -71,20 +72,62 @@ parthksingh1@github
 
 <h2>🏆 Competitive Programming</h2>
 
-<div align="center">
-<br/>
+<p align="center"><i>⚔️ Solving hard problems under pressure, from global contests to production systems</i></p>
 
-<img src="https://img.shields.io/badge/Meta%20HackerCup-Round%203%20%7C%20Global%20Rank%20%23186-1877F2?style=for-the-badge&logo=meta&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CodeChef-Peak%20Rank%20%2376-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<br>
+<img src="https://cdn.simpleicons.org/meta/0668E1" height="46"/>
+<br><br>
+<b>Meta Hacker Cup</b>
+<br><br>
+<img src="https://img.shields.io/badge/Global%20Rank-%23186-0668E1?style=for-the-badge&labelColor=0d1117"/>
+<br>
+<sub>🎯 Round 3 Qualifier · 2025</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://cdn.simpleicons.org/codechef/D4A373" height="46"/>
+<br><br>
+<b>CodeChef</b>
+<br><br>
+<img src="https://img.shields.io/badge/4%E2%98%85-1820-D4A373?style=for-the-badge&labelColor=0d1117"/>
+<br>
+<sub>🌍 Peak Global Rank #76</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="46"/>
+<br><br>
+<b>Codeforces</b>
+<br><br>
+<img src="https://img.shields.io/badge/Specialist-1490-1F8ACB?style=for-the-badge&labelColor=0d1117"/>
+<br>
+<sub>📈 Max Rating 1490</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="46"/>
+<br><br>
+<b>LeetCode</b>
+<br><br>
+<img src="https://img.shields.io/badge/Solved-1000%2B-FFA116?style=for-the-badge&labelColor=0d1117"/>
+<br>
+<sub>🧠 DSA & Algorithms</sub>
+<br><br>
+</td>
+</tr>
+</table>
 
-<br/><br/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅%20Smart%20India%20Hackathon-2023-FF9933?style=for-the-badge&labelColor=0d1117"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <!-- TECH STACK -->
 
 <h2>🛠️ Tech Stack</h2>
