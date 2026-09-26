@@ -91,30 +91,33 @@ parthksingh1@github
 
 <div align="center">
 
+**Languages**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,js,go,cpp,c&theme=dark" />
+
+**AI / ML & LLMs**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface,langchain,llamaindex,mcp,chatgpt,claude,gemini,ollama,mlflow,cuda&theme=dark" />
+
+**RAG & Vector DBs**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,qdrant,pinecone,milvus,elasticsearch&theme=dark" />
+
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux,html,css&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,redux,html,css&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,kafka,redis,postgres,mongodb,supabase&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,fastapi,kafka,redis,mongodb,clickhouse,neo4j,supabase,prisma,websocket&theme=dark" />
 
-**AI / ML**
+**DevOps, Cloud & Observability**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,terraform,githubactions,linux&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,aws,gcp,githubactions,prometheus,grafana,opentelemetry,linux&theme=dark" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,git,github,postman,figma&theme=dark" />
 
 </div>
 
@@ -124,73 +127,102 @@ parthksingh1@github
 
 <h2>🚀 Featured Projects</h2>
 
-<div align="center">
 <table>
 <tr>
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
-
-### 🤖 NexusAI
-**Autonomous AI Agent OS**
-
-Full-blown agent platform with ReAct orchestration, advanced RAG (HyDE + hybrid search + cross-encoder re-ranking), Monaco code agent with Docker/gVisor sandbox, and a live agent marketplace with Prometheus LLMOps.
-
-`Next.js 15` `FastAPI` `Kafka` `pgvector` `ClickHouse` `K8s`
-
-✦ Multi-agent orchestration via Kafka event bus  
-✦ HyDE + hybrid search + re-ranking RAG pipeline  
-✦ Sandboxed code execution with gVisor  
+<h3>🤖 NexusAI</h3>
+<b>Autonomous AI Agent OS</b><br>
+<sub>ReAct multi-agent orchestration, multi-LLM router with fallback, HyDE + hybrid RAG and a gVisor code sandbox</sub>
+<br><br>
+<code>🧠 Claude · GPT · Gemini</code> <code>⚡ Kafka event bus</code>
+<br><br>
+<kbd>Next.js</kbd> <kbd>FastAPI</kbd> <kbd>Kafka</kbd> <kbd>pgvector</kbd> <kbd>K8s</kbd>
 
 </td>
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
-
-### 🌐 CollabSpace
-**Real-Time Collaboration OS**
-
-Team workspace with CRDT-based conflict-free editing, AI context-aware assistance, and a Kafka event backbone — 356+ files, built for production scale.
-
-`Next.js` `TypeScript` `Kafka` `Redis` `Yjs CRDT`
-
-✦ Conflict-free real-time editing via Yjs CRDTs  
-✦ AI suggestions baked into the editor layer  
-✦ Sub-100ms sync via Redis pub/sub  
+<h3>🔌 MCPHub</h3>
+<b>Every MCP server, one hub</b><br>
+<sub>A central hub that collects Model Context Protocol servers so agents and devs can plug in tools fast</sub>
+<br><br>
+<code>🌍 Open source</code> <code>🤖 Agent ready</code>
+<br><br>
+<kbd>MCP</kbd> <kbd>TypeScript</kbd> <kbd>Python</kbd>
 
 </td>
-
 </tr>
 <tr>
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
-
-### ♻️ ZeroWasteLink
-**Smart Food Redistribution Platform**
-
-Connects food donors with NGOs in real time — reducing waste and fighting hunger through tech. Live Leaflet.js map, Socket.io event pipeline, and a smart matching engine.
-
-`Next.js` `MongoDB` `Socket.io` `Leaflet.js` `GCP`
-
-✦ Live donor-NGO map with real-time alerts  
-✦ Intelligent matching algorithm  
-✦ Analytics dashboard, fully responsive  
+<h3>🔍 AgenticRAG</h3>
+<b>Multi-tenant RAG + evals-gated CI</b><br>
+<sub>Hybrid BM25 + pgvector retrieval, cross-encoder reranking, 4 MCP servers and LLM-as-judge gates on every PR</sub>
+<br><br>
+<code>📈 Faithfulness 0.71 → 0.91</code> <code>⚡ TTFT 4.2s → 1.6s</code>
+<br><br>
+<kbd>LangGraph</kbd> <kbd>FastAPI</kbd> <kbd>pgvector</kbd> <kbd>Ragas</kbd>
 
 </td>
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
-
-### ⚙️ TaskForge
-**Distributed Task Queue Engine**
-
-High-throughput task queue with Redis priority scheduling, atomic Lua scripts, PostgreSQL persistence, and real-time job status streaming — built to handle serious workloads.
-
-`TypeScript` `Redis` `PostgreSQL` `Lua`
-
-✦ Atomic Lua scripts for race-condition-free ops  
-✦ Worker pool management with retry logic  
-✦ Real-time job status via WebSocket  
+<h3>⚡ DistillServe</h3>
+<b>LLM distillation + vLLM serving</b><br>
+<sub>Distilled a frontier model into a LoRA-tuned 8B model, served on vLLM + KServe with FP8</sub>
+<br><br>
+<code>🎯 97.4% quality @ 7% cost</code> <code>🚀 3.1K tok/s per H100</code>
+<br><br>
+<kbd>PyTorch</kbd> <kbd>LoRA</kbd> <kbd>vLLM</kbd> <kbd>KServe</kbd>
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
+<h3>🔀 LLMRouter</h3>
+<b>LLM gateway: route · cache · guard</b><br>
+<sub>OpenAI-compatible gateway over 5 providers with mid-stream failover, semantic cache and PII guardrails</sub>
+<br><br>
+<code>💰 -52% spend</code> <code>⚡ 47% cache hits</code>
+<br><br>
+<kbd>Go</kbd> <kbd>Redis</kbd> <kbd>Qdrant</kbd> <kbd>ClickHouse</kbd>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h3>🌐 CollabSpace</h3>
+<b>Real-time collaboration OS</b><br>
+<sub>CRDT conflict-free editing with AI assistance on a Kafka + Redis event backbone</sub>
+<br><br>
+<code>🔥 50K+ live sockets</code> <code>⚡ &lt;30ms sync</code>
+<br><br>
+<kbd>Next.js</kbd> <kbd>Yjs</kbd> <kbd>Kafka</kbd> <kbd>Redis</kbd>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h3>🧵 TaskForge</h3>
+<b>Distributed task queue engine</b><br>
+<sub>Redis priority queue with atomic Lua scripts, visibility timeouts, retries and live job streaming</sub>
+<br><br>
+<code>🔒 Race-free Lua ops</code> <code>✅ At-least-once delivery</code>
+<br><br>
+<kbd>TypeScript</kbd> <kbd>Redis</kbd> <kbd>PostgreSQL</kbd> <kbd>Lua</kbd>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h3>♻️ ZeroWasteLink</h3>
+<b>Smart food redistribution</b><br>
+<sub>Matches food donors with NGOs in real time on a live map with instant alerts</sub>
+<br><br>
+<code>🗺️ Live donor map</code> <code>🤝 Smart matching</code>
+<br><br>
+<kbd>Next.js</kbd> <kbd>MongoDB</kbd> <kbd>Socket.io</kbd> <kbd>GCP</kbd>
+
+</td>
 </tr>
 </table>
 </div>
